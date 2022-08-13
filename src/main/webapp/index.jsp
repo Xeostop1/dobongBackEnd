@@ -269,6 +269,7 @@
 			<fieldset style="background:lightgray; border:0; ">
 				<legend hidden>이미지 넣을것</legend>
 			<a href="https://www.dobong.go.kr/" style="text-decoration:none; text-align:center;"> 도봉구청</a>
+			<a href="notice.jsp">공지사항</a>
 			</fieldset>
 	</div>
 		
